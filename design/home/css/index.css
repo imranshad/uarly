@@ -1,0 +1,11 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font-size: 1em;
+}
+
+.element {
+  float: left;
+  width: 100.75%;
+  height: 205px;
+  background-color: rgb(222, 222, 222);
+}
